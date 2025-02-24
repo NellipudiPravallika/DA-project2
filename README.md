@@ -7,7 +7,7 @@ This table contains the sales according to every state.
 
 2.DATASET USED:
 
-<a href="">dataset</a>
+<a href="https://github.com/NellipudiPravallika/DA-project2/blob/main/excel12project.xlsx">dataset</a>
 
 3.QUESTIONS:
 
@@ -23,7 +23,7 @@ This table contains the sales according to every state.
  10. 10what is the total sum of sales per every product?
  11. what is the average of units sold in october,november,december?
  12. what is the count of product category?
- 13. 
+ 13. Dashboard interaction <a href="">view dashboard</a>
 4.PROCESS:
 
 I verified all the data in the table and performed data cleaning.
