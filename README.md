@@ -23,13 +23,13 @@ This table contains the sales according to every state.
  10. 10what is the total sum of sales per every product?
  11. what is the average of units sold in october,november,december?
  12. what is the count of product category?
- 13. Dashboard interaction <a href="">view dashboard</a>
+ 13. Dashboard interaction <a href="https://github.com/NellipudiPravallika/DA-project2/blob/main/Screenshot%20(239).png">view dashboard</a>
 4.PROCESS:
 
 I verified all the data in the table and performed data cleaning.
 I used some statistical functions (sum, average, count..) and created pivot tables.
 I performed data visualization(created charts) and created a simple dashboard.
-5.DASHBOARD: <img src="">
+5.DASHBOARD: <img src="https://github.com/NellipudiPravallika/DA-project2/blob/main/Screenshot%20(239).png">
 
 6.PROJECT INSIGHTS:
 
